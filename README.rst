@@ -10,7 +10,7 @@ Some notes
 
 - If there are multiple matches ... after entering the index of the match, only
   the choosen match will be printed to stdout. So you can pass that one to your
-  text editor or something: ``vim `~/code/pf/bin/pf xml patch```
+  text editor or something: ``vim `bin/pf xml patch```
 
 Credits
 -------
