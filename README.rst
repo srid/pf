@@ -5,6 +5,10 @@ Since I got frustrated typing ``less src/foo/bar/baz/afile.py`` all the time,
 I wrote this tool. How to use it? You can find it yourself by just playing 
 with it.
 
+No PyPI release yet; so to install it right now::
+
+    pip install -e git://github.com/srid/pf.git#egg=pf
+
 Some notes
 ----------
 
