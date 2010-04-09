@@ -12,6 +12,7 @@ install_requires = [
     # List your project dependencies here.
     # For more details, see:
     # http://packages.python.org/distribute/setuptools.html#declaring-dependencies
+    'applib',
 ]
 
 
@@ -20,7 +21,14 @@ setup(name='pf',
     description="Programmer's find; smart file-finding; no more repeated double-tabs.",
     long_description=README + '\n\n' + NEWS,
     classifiers=[
-      # Get strings from http://pypi.python.org/pypi?%3Aaction=list_classifiers
+      'Development Status :: 1 - Planning',
+      'Environment :: Console',
+      'Intended Audience :: Developers',
+      'Intended Audience :: System Administrators',
+      'License :: OSI Approved :: MIT License',
+      'Operating System :: OS Independent',
+      'Topic :: Software Development',
+      'Topic :: Utilities',
     ],
     keywords='',
     author='Sridhar Ratnakumar',
