@@ -8,9 +8,9 @@ with it.
 Some notes
 ----------
 
-- If there are multiple patches, after entering the index of the match ... only
-  that will be printed to stdout. So you can pass that one to your text editor
-  or something: ``vim `~/code/pf/bin/pf xml patch```
+- If there are multiple matches ... after entering the index of the match, only
+  the choosen match will be printed to stdout. So you can pass that one to your
+  text editor or something: ``vim `~/code/pf/bin/pf xml patch```
 
 Credits
 -------
