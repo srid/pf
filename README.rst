@@ -1,9 +1,16 @@
 pf
 ==
 
-Since I got frustrated typing "less src/foo/bar/baz/afile.py" all the time, 
+Since I got frustrated typing ``less src/foo/bar/baz/afile.py`` all the time, 
 I wrote this tool. How to use it? You can find it yourself by just playing 
 with it.
+
+Some notes
+----------
+
+- If there are multiple patches, after entering the index of the match ... only
+  that will be printed to stdout. So you can pass that one to your text editor
+  or something: ``vim `~/code/pf/bin/pf xml patch```
 
 Credits
 -------
