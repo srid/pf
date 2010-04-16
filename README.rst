@@ -7,7 +7,7 @@ with it.
 
 No PyPI release yet; so to install it right now::
 
-    pip install -e git://github.com/srid/pf.git#egg=pf
+    sudo pip install -e git://github.com/srid/pf.git#egg=pf
 
 Some notes
 ----------
